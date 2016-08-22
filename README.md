@@ -1,4 +1,4 @@
 Dodgeball 2D GAME
-Team : Alcy Tankred
+Team : Alcy, Tankred
 
 Dossier des images : /Assets
